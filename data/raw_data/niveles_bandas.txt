@@ -1,0 +1,146 @@
+Integration 7.74us
+Nivel en el equipo 24
+
+---- 350 a 800 ----
+Integration Begin:1002	350,00
+Integration End:1003	800,00
+Method:1004	Uses the classic Rectangular method for integration.
+Moles of Photons:1013	1,5800E-12
+PAR uMoles/m²/sec:1015	1,3049E3
+PAR uMoles:1014	1,2692E-6
+Photons/cm²/sec:1011	9,7832E16
+Total Photons:1012	9,5152E11
+dBm:1009	-1,4119E1
+eV:1010	1,8714E12
+uJoule/cm²:1007	2,3860E2
+uJoule:1005	2,9983E-1
+uWatt/cm²:1008	3,0827E4
+uWatt:1006	3,8737E1
+
+---- 350 a 400 (375) ----
+Integration Begin:1032	350,00
+Integration End:1033	400,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	1,0408E-15
+PAR uMoles/m²/sec:1045	1,2907E3
+PAR uMoles:1044	1,2554E-6
+Photons/cm²/sec:1041	6,4443E13
+Total Photons:1042	6,2678E8
+dBm:1039	-4,3693E1
+eV:1040	2,0642E9
+uJoule/cm²:1037	2,6318E-1
+uJoule:1035	3,3072E-4
+uWatt/cm²:1038	3,4003E1
+uWatt:1036	4,2728E-2
+
+---- 400 a 425 (410) ----
+Integration Begin:1032	400,00
+Integration End:1033	425,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	4,9359E-15
+PAR uMoles/m²/sec:1045	1,2915E3
+PAR uMoles:1044	1,2561E-6
+Photons/cm²/sec:1041	3,0562E14
+Total Photons:1042	2,9724E9
+dBm:1039	-3,7347E1
+eV:1040	8,8981E9
+uJoule/cm²:1037	1,1345E0
+uJoule:1035	1,4256E-3
+uWatt/cm²:1038	1,4658E2
+uWatt:1036	1,8419E-1
+
+--- 425 a 490 (460) ----
+Integration Begin:1032	425,00
+Integration End:1033	490,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	4,6462E-14
+PAR uMoles/m²/sec:1045	1,2976E3
+PAR uMoles:1044	1,2620E-6
+Photons/cm²/sec:1041	2,8768E15
+Total Photons:1042	2,7980E10
+dBm:1039	-2,8100E1
+eV:1040	7,4822E10
+uJoule/cm²:1037	9,5399E0
+uJoule:1035	1,1988E-2
+uWatt/cm²:1038	1,2325E3
+uWatt:1036	1,5488E0
+
+---- 490 a 560 (520) ----
+Integration Begin:1032	490,00
+Integration End:1033	560,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	1,6408E-13
+PAR uMoles/m²/sec:1045	1,3044E3
+PAR uMoles:1044	1,2687E-6
+Photons/cm²/sec:1041	1,0159E16
+Total Photons:1042	9,8811E10
+dBm:1039	-2,3201E1
+eV:1040	2,3117E11
+uJoule/cm²:1037	2,9475E1
+uJoule:1035	3,7038E-2
+uWatt/cm²:1038	3,8081E3
+uWatt:1036	4,7853E0
+
+---- 560 a 585 (570) ---
+Integration Begin:1032	560,00
+Integration End:1033	585,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	1,0558E-13
+PAR uMoles/m²/sec:1045	1,3023E3
+PAR uMoles:1044	1,2666E-6
+Photons/cm²/sec:1041	6,5375E15
+Total Photons:1042	6,3584E10
+dBm:1039	-2,5452E1
+eV:1040	1,3767E11
+uJoule/cm²:1037	1,7553E1
+uJoule:1035	2,2058E-2
+uWatt/cm²:1038	2,2679E3
+uWatt:1036	2,8498E0
+
+---- 585 a 640 (620) ----
+Integration Begin:1032	585,00
+Integration End:1033	640,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	3,5135E-13
+PAR uMoles/m²/sec:1045	1,2824E3
+PAR uMoles:1044	1,2473E-6
+Photons/cm²/sec:1041	2,1755E16
+Total Photons:1042	2,1159E11
+dBm:1039	-2,0534E1
+eV:1040	4,2717E11
+uJoule/cm²:1037	5,4464E1
+uJoule:1035	6,8440E-2
+uWatt/cm²:1038	7,0367E3
+uWatt:1036	8,8423E0
+
+--- 640 a 740 (680) ---
+Integration Begin:1032	640,00
+Integration End:1033	740,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	8,9336E-13
+PAR uMoles/m²/sec:1045	1,3042E3
+PAR uMoles:1044	1,2685E-6
+Photons/cm²/sec:1041	5,5315E16
+Total Photons:1042	5,3800E11
+dBm:1039	-1,6957E1
+eV:1040	9,7358E11
+uJoule/cm²:1037	1,2413E2
+uJoule:1035	1,5598E-1
+uWatt/cm²:1038	1,6038E4
+uWatt:1036	2,0153E1
+
+--- 740 a 800 (770) ---
+Integration Begin:1032	740,00
+Integration End:1033	800,00
+Method:1034	Uses the classic Rectangular method for integration.
+Moles of Photons:1043	5,6814E-15
+PAR uMoles/m²/sec:1045	1,2914E3
+PAR uMoles:1044	1,2560E-6
+Photons/cm²/sec:1041	3,5178E14
+Total Photons:1042	3,4214E9
+dBm:1039	-3,9288E1
+eV:1040	5,6914E9
+uJoule/cm²:1037	7,2566E-1
+uJoule:1035	9,1186E-4
+uWatt/cm²:1038	9,3755E1
+uWatt:1036	1,1781E-1
